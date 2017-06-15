@@ -1,0 +1,11 @@
+body{
+	background-color: lightgrey;
+}
+
+h1{ color: red; font-size: 70pt;}
+
+h2{ font-size: 26pt; color: green;}
+
+.italics{ font-style: oblique;}
+
+h2 span {font-style: italic;}
